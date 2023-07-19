@@ -16,3 +16,11 @@ Once done, copy file directory and open in CMD
 enter in order:
 
 search.bat "RobotNav-test.txt" search_method
+
+Where search_method can be:
+BFS
+DFS
+GBFS
+A*
+A*L
+DLS
